@@ -50,5 +50,6 @@ cd graham-bot-pro
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r Requirements.txt
-▶️ Executar streamlit run app_saas_ui.py
+streamlit run app_saas_ui.py
+
 
