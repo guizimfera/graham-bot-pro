@@ -1,0 +1,14 @@
+beautifulsoup4
+fundamentus
+google-generativeai
+langchain
+langchain-google-genai
+python-dotenv
+numpy
+pandas
+pypdf
+requests
+streamlit
+yfinance
+plotly
+kaleido
