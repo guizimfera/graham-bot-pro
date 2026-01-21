@@ -39,6 +39,8 @@ Sistema de análise fundamentalista inspirado em **Benjamin Graham**, com:
 - Google Gemini (opcional)
 
 ---
+🔐 IA (Opcional)  Para habilitar a análise com IA:  Crie um arquivo .env  Adicione sua chave:  GOOGLE_API_KEY=sua_chave_google  
+---
 
 ## 📦 Instalação
 
@@ -48,3 +50,5 @@ cd graham-bot-pro
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r Requirements.txt
+▶️ Executar streamlit run app_saas_ui.py
+
